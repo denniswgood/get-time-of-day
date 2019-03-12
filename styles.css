@@ -1,0 +1,11 @@
+body {
+  background: linear-gradient(-90deg, red, yellow);
+  padding-top: 10px;
+}
+
+h1 {
+  color: #ffffff;
+  font-family: arial, helvetica, san-serif;
+  text-align: center;
+  font-size: 70px;
+}
